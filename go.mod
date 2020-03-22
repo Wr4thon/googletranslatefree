@@ -1,4 +1,4 @@
-module github.com/Wr4thon/googletranslatefree
+module github.com/wr4thon/googletranslatefree
 
 go 1.14
 
